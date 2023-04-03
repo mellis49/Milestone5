@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Sword",
+        "description": "A longsword to take out your enemy at close range",
+        "price": 250,
+        "inventory": 15
+    },
+    {
+        "name": "Shurikan",
+        "description": "A throwing Shurikan to take out your enemy at long range",
+        "price": 25,
+        "inventory": 750
+    },
+    {
+        "name": "Helmet",
+        "description": "A helmet to protect your head from hits",
+        "price": 150,
+        "inventory": 200
+    },
+    {
+        "name": "Boots",
+        "description": "Boots to lighten the damage of falling",
+        "price": 125,
+        "inventory": 175
+    },
+    {
+        "name": "Health Potion",
+        "description": "Completely refills your health",
+        "price": 50,
+        "inventory": 500
+    }
+]
